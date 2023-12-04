@@ -1,0 +1,4 @@
+S10000,jdl,1234567890,chen@gmail.com,123,jln,bukit jalil,KL
+S10002,jdl,1234567890,kjdkfdas,123,jln,bukit jalil,KL
+S10001,aidan,0123456789,aidan@gmail.com,monkeymountain
+S12345,dwadad,01234567890,chen@gamil.com,wadadwa

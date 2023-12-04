@@ -1,0 +1,5 @@
+I10001,Chicken Thigh (1kg),10.30,9,S10002,Fresh chicken thigh
+I10002,Kraft Singles (10 slices),12.12,5,S10002,Yummy and halal cheese
+I00009,Mentos Mints,20.00,2,S10002,Refreshing chewing gum
+I12345,Spinach,12.45,20,S10001,Fresh spinach from Cameron Highlands
+I10008,cheese cream,23.12,13,S10001,too good ler

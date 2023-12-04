@@ -1,0 +1,22 @@
+EMPLOYEE CLASS
+1. user login
+2. list of items
+3. list of suppliers
+4. list of purchaser orders
+5. display pr 
+6. update user info
+
+SALES MANAGER
+1. item entry
+2. supplier entry
+3. daily item-wise sales entry
+4. create pr
+5. SM Menu
+
+PURCHASE MANAGER
+1. Generate PO
+2. PM Menu
+
+ADMIN
+1. Admin Menu
+2. User Registration

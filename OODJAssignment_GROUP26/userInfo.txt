@@ -1,0 +1,7 @@
+SM001,name888,name@gmail.com,Pa$$w0rd,sm
+PM004,newUser,user@gmail.com,Pa$$w0rd,pm
+SM004,user1,user1@gmail.com,Pa$$w0rd,sm
+PM002,name2,name2@gmail.com,Pa$$w0rd,pm
+SM003,name3,1,1,sm
+PM003,name4,2,2,pm
+SM005,nakapename,validemail@gmail.com,Pa$$w0rd,sm
